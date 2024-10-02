@@ -1,0 +1,39 @@
+.transactionTable {
+    margin: 48px auto;
+    border-radius: 5px;
+    width: 720px;
+    border-collapse: collapse;
+   
+  }
+  .headersRow {
+    font-size: 18px;
+    text-align: center;
+    border: 2px solid black;
+  }
+  .columnHeader {
+    width: 260px;
+    background-color: #393b3b;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  
+  .valuesRow {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    border: 2px solid black;
+  }
+  
+  .valuesRow:nth-child(even) {
+    background-color: #ada9a9;
+  }
+  td, th{
+    border: 2px solid black;
+  }
+
+
+
+  
