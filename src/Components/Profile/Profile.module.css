@@ -18,13 +18,13 @@
     text-align: center;
     padding: 12px
   }
-  
+
   .avatar {
     display: flex;
     width: 148px;
     height: 148px;
     border-radius: 50%;
-    border: solid 4px black;
+    border: solid 3px black;
     background-color: rgba(54, 48, 48, 0.955);
   }
   
